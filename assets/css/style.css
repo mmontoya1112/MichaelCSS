@@ -1,5 +1,31 @@
 h1 {
-    color: var(--heliotrope);
+    margin-bottom: 0.625rem;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     line-height: 1.1;
 }
+img:hover {
+    border: 2px
+    coral
+}
+
+.contactInformation {
+    color:blue
+
+}
+
+.navigation {
+    color: aqua;
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.about {
+    color: aqua;
+    
+}
+
+
