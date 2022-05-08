@@ -14,7 +14,7 @@ h1 {
     font-weight: 700;
     line-height: 1.1;
 }
-.projects:hover {
+#work {
     display: grid;
     width: 100%;
     grid-template-columns: repeat(12, 1fr);
@@ -22,7 +22,7 @@ h1 {
       
 }
 
-.contactInformation {
+#contact-information {
     color:rgb(221, 206, 234);
 
 }
@@ -39,11 +39,15 @@ h1 {
     display: inline-block;
 }
 
-.about {
+#about {
     color: rgb(221, 206, 234);
     text-align: center;
     padding: 35px;
     
+}
+img:hover {
+    border: 5px solid red;
+
 }
 
 
